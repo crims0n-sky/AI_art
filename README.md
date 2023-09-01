@@ -1,1 +1,1 @@
-# AI_art
+AI art generator using openAI API 
